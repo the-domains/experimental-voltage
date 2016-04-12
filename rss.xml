@@ -4,7 +4,7 @@
         <description><![CDATA[Experimental voltAGE]]></description>
         <link>https://thegrid.ai/experimental-voltage/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 04:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 04:24:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/experimental-voltage/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Evidence of VoltAGE in the wild]]></title>
@@ -33,6 +33,13 @@
             <link>https://thegrid.ai/experimental-voltage/experimental-evidence-of-voltage/index.html</link>
             <guid isPermaLink="false">c5f323cd-4528-4bee-98e6-15f56d5b4867</guid>
             <pubDate>Tue, 12 Apr 2016 04:20:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d08eabf8-c16b-4772-9b65-7c0fcc54c254.png">]]></description>
+            <link>https://thegrid.ai/experimental-voltage/e62174a4-c75f-4ac6-bc1b-3388a66b9fb0/index.html</link>
+            <guid isPermaLink="false">e62174a4-c75f-4ac6-bc1b-3388a66b9fb0</guid>
+            <pubDate>Tue, 12 Apr 2016 04:23:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
