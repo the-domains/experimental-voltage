@@ -4,8 +4,15 @@
         <description><![CDATA[Experimental voltAGE]]></description>
         <link>https://thegrid.ai/experimental-voltage/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 04:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 04:20:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/experimental-voltage/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Strange new VoltAGE]]></title>
+            <description><![CDATA[<h1>Strange new VoltAGE</h1>]]></description>
+            <link>https://thegrid.ai/experimental-voltage/strange-new-voltage/index.html</link>
+            <guid isPermaLink="false">4134f8e4-12f2-4a39-8256-a3c0280d781b</guid>
+            <pubDate>Tue, 12 Apr 2016 04:20:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Experimental evidence of voltAGE]]></title>
             <description><![CDATA[<h1>Experimental evidence of voltAGE</h1>]]></description>
