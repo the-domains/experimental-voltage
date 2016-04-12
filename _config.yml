@@ -1,7 +1,7 @@
 name: experimental-voltAGE
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.6893617
+typography_spectrum: 0.20522
 collections:
   - index:
       path: /
