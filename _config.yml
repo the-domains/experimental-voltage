@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: experimental-voltAGE
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.6893617
 collections:
   - index:
       path: /
@@ -18,23 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+title: Experimental voltAGE
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.03259398019872606
-  brandStrength: 0.8957447
-  lightness: 0.6850148588418961
   brandColors:
     - '#0B041F'
     - '#FAFFFF'
     - '#30039A'
     - '#4288F2'
     - '#6E30FF'
+  brandStrength: 0.8957447
+  lightness: 0.6850148588418961
+  saturation: 0.03259398019872606
   rhythmicContrast: 0.836178848752752
-typography_spectrum: 0.6893617
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 1
-favicon: null
-name: experimental-voltAGE
+purpose: []
