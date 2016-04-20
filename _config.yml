@@ -22,7 +22,7 @@ color:
     - '#01B601'
     - '#5A4800'
     - '#FEB933'
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 cta:
   bucket: null
   version: null
@@ -38,4 +38,4 @@ opengraph:
   type: null
   appId: null
 typography_spectrum: 1
-layout_spectrum: 1
+layout_spectrum: 0
