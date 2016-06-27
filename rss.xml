@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Experimental voltAGE]]></title>
         <description><![CDATA[Experimental voltAGE]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/experimental-voltage/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 22:57:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 26 Jun 2016 22:57:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/experimental-voltage/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[VoltAGE is increasing]]></title>
+            <description><![CDATA[<article><h1>VoltAGE is increasing</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/22e5a679-8950-414f-87ce-d6db4830d1af.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/22e5a679-8950-414f-87ce-d6db4830d1af.jpg</link>
+            <guid isPermaLink="false">928ce6b0-466e-40d3-bb15-d9ceb9c960fa</guid>
+            <pubDate>Sun, 26 Jun 2016 22:57:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[More wild VoltAGE]]></title>
             <description><![CDATA[<article><h1>More wild VoltAGE</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f308c371-29c7-4d4a-8bbc-4a0770128279.jpg"></article>]]></description>
